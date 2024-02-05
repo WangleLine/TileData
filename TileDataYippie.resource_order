@@ -1,0 +1,13 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Objects","order":9,"path":"folders/Objects.yy",},
+    {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
+    {"name":"Scripts","order":5,"path":"folders/Scripts.yy",},
+    {"name":"Sounds","order":3,"path":"folders/Sounds.yy",},
+    {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"s_ts_example","order":16,"path":"sprites/s_ts_example/s_ts_example.yy",},
+    {"name":"tiledata_get","order":1,"path":"scripts/tiledata_get/tiledata_get.yy",},
+  ],
+}
