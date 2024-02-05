@@ -5,8 +5,8 @@ TileData is a tiny library for attaching arrays of arbitrary data to tileset ass
 +-----------------------------------+----------------------------------------------------------------------------------------------------+
 | tiledata_set                      | Attaches data to a tileset asset.                                                                  |
 +===================================+====================================================================================================+
-| tileset_asset                     | | ``$ The asset reference/ID of the tileset you want to set data for.``                            |
+| tileset_asset                     | | ``The asset reference/ID of the tileset you want to set data for.``                            |
 +-----------------------------------+----------------------------------------------------------------------------------------------------+
-| data_array                        | | ``$ The array of data you want to attach to the tileset asset.``                                 |
+| data_array                        | | ``The array of data you want to attach to the tileset asset.``                                 |
 +-----------------------------------+----------------------------------------------------------------------------------------------------+
 
