@@ -17,3 +17,7 @@ TileData is a tiny library for attaching arrays of arbitrary data to tileset ass
 +----------------------------------------+-----------------------------------------------------------------------------------------------+
 | `data_array`                           | | Only return data for a specific tile, as opposed to the entire data array for this tileset. |
 +----------------------------------------+-----------------------------------------------------------------------------------------------+
+
+Example
+=======
+This repository contains a small example project that shows how the TileData library can be used for attaching footstep material data to a tileset.
