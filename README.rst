@@ -13,7 +13,7 @@ TileData is a tiny library for attaching arrays of arbitrary data to tileset ass
 +----------------------------------------+-----------------------------------------------------------------------------------------------+
 | tiledata_get                           | | Get data previously attached to a tileset via tiledata_set().                               |
 +========================================+===============================================================================================+
-| `tileset_asset`                        | | The asset reference/ID of the tileset you want to set data for.                             |
+| `tileset_asset`                        | | The asset reference/ID of the tileset you want to get data from.                            |
 +----------------------------------------+-----------------------------------------------------------------------------------------------+
 | `data_array`                           | | Only return data for a specific tile, as opposed to the entire data array for this tileset. |
 +----------------------------------------+-----------------------------------------------------------------------------------------------+
